@@ -1,0 +1,28 @@
+SÍNDICO E ZELADOR — v1.02.0
+===========================
+Aplicativo web (PWA) de arquivo único para a rotina diária do condomínio, com dois módulos:
+  • Síndico — rotinas de gestão, tarefas, moradores, plano em PDF, comunicados.
+  • Zelador — ronda, checklist, testes, estoque, ocorrências, retorno em PDF.
+O botão no topo ("Síndico ▾" / "Zelador ▾") alterna os módulos; os dados do condomínio são compartilhados.
+
+COMO PUBLICAR
+  1. Envie TODOS os arquivos desta pasta (index.html, manifest.json, sw.js, icon-192.png, icon-512.png)
+     para uma hospedagem HTTPS (GitHub Pages, Netlify, Cloudflare Pages ou seu domínio).
+  2. Abra o endereço no celular e use "Instalar app" / "Adicionar à tela inicial".
+  3. A senha (criptografia AES-256) e o PWA só funcionam em HTTPS (ou localhost).
+  Também funciona abrindo index.html direto, mas sem senha, sem instalação e sem modo offline.
+
+SINCRONIZAÇÃO ENTRE APARELHOS
+  Ajustes > Sincronização: cada aparelho tem um ID (AP-XXXX). O síndico gera o PLANO em PDF,
+  o zelador importa, cumpre as rotinas e gera o RETORNO em PDF, que o síndico importa.
+  Troca de aparelho: restaure o backup e use "Alterar" para informar o ID do aparelho antigo.
+
+PLANO PRO
+  Teste grátis de 30 dias. Código de ativação: pasta ferramentas-vendedor (NÃO publique essa pasta).
+  Os valores dos planos exibidos no app ainda são os do Cor Sync — ajuste antes de vender.
+
+LIMITAÇÕES CONHECIDAS
+  • Backup e PDF de sincronização não são criptografados pela senha do app.
+  • Excluir tarefa/ocorrência não se propaga entre os aparelhos.
+  • Regimento e Estatuto ficam só no aparelho (não vão no PDF de sincronização).
+  • Não testado em celular real nem com foto de câmera real.
