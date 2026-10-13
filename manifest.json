@@ -1,7 +1,7 @@
 {
   "name": "Síndico e Zelador",
   "short_name": "Síndico e Zelador",
-  "description": "Rotina diária do condomínio: síndico e zelador, checklist, ronda, tarefas e ocorrências.",
+  "description": "Rotina diária do condomínio para síndico, zelador e presidente: checklist, ronda, tarefas, ocorrências, vencimentos, manutenção, estoque, reservas e financeiro.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
