@@ -1,4 +1,4 @@
-# Síndico e Zelador — versão de TESTE (v1.11.0)
+# Síndico e Zelador — versão de TESTE (v1.12.0)
 
 Aplicativo de **arquivo único** para o dia a dia do condomínio, com três perfis: **Síndico**, **Zelador** e **Presidente da associação**. Funciona **sem internet** depois de aberto uma vez; os dados ficam **no próprio aparelho** (nada é enviado a servidores).
 
@@ -16,6 +16,7 @@ Aplicativo de **arquivo único** para o dia a dia do condomínio, com três perf
 - **30 dias grátis** com tudo liberado, contados a partir do primeiro uso, em cada aparelho.
 - **Manual com exemplos**: em *Ajustes › Manual › Abrir o manual com exemplos*, um condomínio **fictício** já preenchido (moradores, ocorrências, financeiro, vistorias, equipe, reservas). Nada é salvo e os dados reais não são tocados; o botão **Sair do manual** (barra roxa no topo) volta ao app normal.
 - **Tutorial guiado com dados fictícios** para cada perfil (síndico, zelador, presidente), com "aprender fazendo": roda num condomínio de exemplo, **não grava nada** e tem o botão **Sair do tutorial** sempre visível (Ajustes › Ajuda › Ver tutorial guiado).
+- **Novidades da v1.12.0**: **Meus dados por função** (cada função tem a sua tela; o mandato do síndico e o do presidente ficam cada um na sua), com regras de quem altera os dados de quem; **senha individual** de síndico, zelador e presidente, pedida ao trocar de módulo (no manual e no tutorial com dados fictícios as senhas não são verificadas); ícones dos botões como marca d'água; laranja do zelador mais claro; aviso de direitos autorais em *Ajustes › Sobre esta cópia*.
 - **Novidades da v1.11.0** (Gestão): **Encomendas** (aviso por WhatsApp e baixa na retirada), **Obras, mudanças e prestadores**, **Chaves**, **Consumo** (água, energia e gás, com alerta de alta), **Enquetes** simples, **Veículos, vagas e pets** e **modelos prontos de vencimentos** (AVCB, para-raios, elevadores, extintores, gás, fachada, brigada…). O perfil **Zelador** agora é **laranja claro**.
 
 ## Roteiro rápido para o prospect (15 minutos)
