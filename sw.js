@@ -1,5 +1,5 @@
-/* Service worker — Síndico e Zelador v1.15.2 (offline + lembrete em segundo plano, quando o navegador permitir) */
-const CACHE = 'sindico-zelador-1.15.2';
+/* Service worker — Síndico e Zelador v1.15.4 (offline + lembrete em segundo plano, quando o navegador permitir) */
+const CACHE = 'sindico-zelador-1.15.4';
 const ARQUIVOS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(ARQUIVOS)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', e => {

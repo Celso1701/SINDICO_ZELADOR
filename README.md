@@ -1,4 +1,4 @@
-# Síndico e Zelador — versão de TESTE (v1.15.2)
+# Síndico e Zelador — versão de TESTE (v1.15.4)
 
 Aplicativo de **arquivo único** para o dia a dia do condomínio, com três perfis: **Síndico**, **Zelador** e **Presidente da associação**. Funciona **sem internet** depois de aberto uma vez; os dados ficam **no próprio aparelho** (nada é enviado a servidores).
 
@@ -16,6 +16,7 @@ Aplicativo de **arquivo único** para o dia a dia do condomínio, com três perf
 - **30 dias grátis** com tudo liberado, contados a partir do primeiro uso, em cada aparelho.
 - **Manual com exemplos**: em *Ajustes › Manual › Abrir o manual com exemplos*, um condomínio **fictício** já preenchido (moradores, ocorrências, financeiro, vistorias, equipe, reservas). Nada é salvo e os dados reais não são tocados; o botão **Sair do manual** (barra roxa no topo) volta ao app normal.
 - **Tutorial guiado com dados fictícios** para cada perfil (síndico, zelador, presidente), com "aprender fazendo": roda num condomínio de exemplo, **não grava nada** e tem o botão **Sair do tutorial** sempre visível (Ajustes › Ajuda › Ver tutorial guiado).
+- **Novidades da v1.15.4**: **confirmação do recebimento da senha** (Sim/Não) depois da cópia enviada ao WhatsApp; **QR dos pontos de ronda, locais de vistoria e equipamentos** com os botões **Imprimir** (computador) e **Salvar na galeria** (celular); campos de senha sem o aviso de “salvar senha” do navegador; tutorial atualizado.
 - **Novidades da v1.15.2**: no cadastro de síndico, zelador e presidente o **WhatsApp (celular com DDD) é obrigatório e validado**; sempre que a senha for **criada, alterada ou redefinida**, o app abre o WhatsApp da pessoa com uma **cópia da senha**. Tutorial e observação na tela de cadastro atualizados.
 - **Novidades da v1.15.1**: **Inadimplência simples**, **advertências e multas** (com notificação em PDF), **prestação de contas** mensal para moradores, **telefones úteis e de emergência** (botão ligar), **edital, lista de presença e pauta** de assembleia em PDF e **registro de visitantes e prestadores** com relatório. Tutorial revisado: agora cobre estoque, fornecedores, reuniões, encomendas e chaves em todos os perfis que usam esses módulos. Manual atualizado.
 - **Novidades da v1.14.0**: **Calendário anual** (os 12 meses, com vencimentos, manutenções, reuniões, obras, mandato e obrigações); **Obrigações e prazos** (lembretes trabalhistas e fiscais com modelos editáveis; só lembram, não calculam); **Passagem de plantão** entre zelador, síndico e presidente (situação do condomínio automática, "Li e ciente", WhatsApp e PDF); **composição da diretoria** (dados opcionais; RG e CPF ficam fora dos PDFs e dos arquivos de troca); novos módulos no **relatório mensal em PDF**. Manual e tutorial atualizados.
